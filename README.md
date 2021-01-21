@@ -43,4 +43,4 @@ Use Terminal to open the server and the brouser to run this application
 ## License
 Permission is granted , free of charge to any one who want use this Award web Application to post their project and get the feedback. By copy this software for fee.this website is an open website every one can use it by Ordering ,searching and visite the website 
  otherwise no one is allowed to use it by huncking the website 
-Copyright (c) 2021 | 
+Copyright (c) 2021 | INGABIRE Joselyne.
