@@ -28,13 +28,6 @@ migration tags
 * Postman
 * css
 * Postgres SQLALchemy
-## To get API token 
-* download drf package  --pip install djangorestframework 
-* create a serializer file
-* create a class in model and view
-* url --url(r'^api-token-auth/', obtain_auth_token)
-* http://127.0.0.1:8000/api/merch/ for Project
-* http://127.0.0.1:8000/api/merch/profile for Profile
 
 ## Run
 Use Terminal to open the server and the brouser to run this application
