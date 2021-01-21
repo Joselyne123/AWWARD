@@ -17,9 +17,6 @@ migration tags
  --django-admin startproject award .
 ---django-admin startapp awardapp
  
-## Project instruction 
-to start using this app you can first clone it on github
-and user visual code for writing codes
 ## Technology used
 * Python3.6
 * Django
