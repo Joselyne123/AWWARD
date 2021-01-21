@@ -91,7 +91,7 @@ class ProfileTestClass(TestCase):
     images test method
     '''
     def setUp(self):
-        self.user1 = User(username='dukunde')
+        self.user1 = User(username='joselyne')
         self.user1.save()
         # self.image=Profile(name='leaves',description='beautiful',user=self.user1,likes="1",post="image")
         # self.image.save_image()
