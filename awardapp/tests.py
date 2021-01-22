@@ -14,7 +14,7 @@ class ImageTestClass(TestCase):
     '''
     def setUp(self):
 
-        self.user1 = User(username='dukunde')
+        self.user1 = User(username='joselyne')
         self.user1.save()
         
         
@@ -56,7 +56,7 @@ class CommentTestClass(TestCase):
 
     def setUp(self):
      
-        self.user1 = User(username='dukunde')
+        self.user1 = User(username='joselyne')
         self.user1.save()
         self.nature=Profile(2,user=self.user1,bio='Nature')
         self.nature.save_prof()

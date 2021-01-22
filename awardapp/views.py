@@ -159,15 +159,6 @@ def projects(request,id):
     
     return render(request,'one_project.html',{"projects":projects,"all":all,"form":form,"usability":aver_usability,"design":aver_design,"content":aver_content})
 
-# def newsletter(request):
-#     name = request.POST.get('your_name')
-#     email = request.POST.get('email')
-
-#     recipient = NewsLetterRecipients(name=name, email=email)
-#     recipient.save()
-#     send_welcome_email(name, email)
-#     data = {'success': 'You have been successfully added to mailing list'}
-#     return JsonResponse(data)
 
 class MerchList(APIView):
     def get(self, request, format=None):
